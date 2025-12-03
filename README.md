@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@yourusername](https://github.com/jawad2005-mj)
 
 ## 🙏 Acknowledgments
 
@@ -120,4 +120,5 @@ Your Name - [@yourusername](https://github.com/yourusername)
 ---
 
 ⭐ Star this repo if you find it helpful!
+
 
